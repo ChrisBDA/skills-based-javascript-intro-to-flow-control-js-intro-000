@@ -20,6 +20,8 @@ return "You are a kid";
 
 function ternaryTeenager(age) {
 
+}
+
 
 function switchAge(age) {
 
